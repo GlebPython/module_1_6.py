@@ -1,0 +1,5 @@
+all_tasks=12
+hours=1.5
+course='Python'
+average_time=hours/all_tasks
+print('Курс:',course,', всего задач:',all_tasks,', затрачено часов:',hours,', среднее время выполнения:',average_time,'часа.')
